@@ -17,4 +17,7 @@ Aliens have challenged the Earth to a football match. We must put together our t
 For this purpose, I extracted over 48,000 rows of data from _footballtransfers.com_. The raw data was then cleaned in RStudio to transfer them into valuable insights. Next step was to visualise these insights. I then made a power BI dashboard, which would assist
 the selection committe to make the right decisions.
 
+## understanding the dataset
+The data for each player was extracted in pieces. 
+
 
