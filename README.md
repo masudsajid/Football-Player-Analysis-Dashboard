@@ -19,5 +19,6 @@ the selection committe to make the right decisions.
 
 ## understanding the dataset
 The data for each player was extracted in pieces. 
+![](dataextraction.mp4)
 
 
