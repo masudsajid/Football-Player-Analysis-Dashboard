@@ -3,13 +3,12 @@
 ![](mainpage.png)
 
 ## Table of contents 📋
-1. Introduction
-2. Problem statement
-4. Skills/ concepts used
+1. [Introduction](https://github.com/masudsajid/Football-Dataset-Analysis#introduction)
+2. [Problem statement](https://github.com/masudsajid/Football-Dataset-Analysis#problem-statement)
+4. [Skills/ concepts used](https://github.com/masudsajid/Football-Dataset-Analysis#skills/-concepts-used)
 5. Data extraction
 6. Data transformation in RStudio
 7. Power BI dashboard
-8. How to use
 
 ## Introduction
 I was assigned to compile the data for 200+ football players and present the anaysis in the form of an interactive dashboard. For this purpose, I extracted
