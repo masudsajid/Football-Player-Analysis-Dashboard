@@ -1,6 +1,6 @@
 # Football Players Analysis
 
-<!-- alien ship image -->
+![](mainpage.png)
 
 ## Table of contents 🗒️
 1. Introduction
