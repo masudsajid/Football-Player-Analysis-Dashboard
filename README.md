@@ -156,6 +156,21 @@ After the data is gathered, it is now time to make it analyzable. For this purpo
 
 ## Power BI dashboard
 
+![](dashboard.PNG)
+
+### Features:
+- **Buttons**
+- **Cards**
+- **Drill through Button**
+- **Multi layer slicers**
+- **Measures**
+   - **Attribute measure**
+     - Based on the selected attribute category (e.g., “Attacker,” “Midfielder,” etc.), the code calculates a weighted score.
+     - Attributes considered include attacking, playmaking, and defending.
+     - The final score represents the player’s overall performance in the specified category.
+     
+
+
 
 
 
