@@ -24,7 +24,7 @@ _Our formation would be of 1-4-3-2-1_.
 **Note:** _This criteria may not be realistic. It is selected in such a way that encorporates as many testing points as possible_. 
 ### Goalkeeper:
 1.	20-30 years of age
-2.	Most saves in penalty shootouts
+2.	Most defending challenges won with least errors
 3.	Must have won a league or major title
 
 ### Defender:
