@@ -1,6 +1,6 @@
 # WORLD 11
 
-![](mainpage.png)
+![](world11_gif.gif)
 
 ## Table of contents 📋
 1. [Introduction](https://github.com/masudsajid/Football-Player-Analysis-Dashboard#introduction)
@@ -84,7 +84,7 @@ For this purpose, I used a software called octoparse 8. It is a very easy to use
   - Verified accurate data in the second run.
   - Total data gathered: 248 players.
 
-![](dataextractionScreenshot.png)
+![](data_extraction_gif.gif)
 
 ## Data transformation in RStudio
 
